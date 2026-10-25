@@ -1,0 +1,62 @@
+[
+  {
+    "platform": "github_pages",
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day28-feast-20261024-v1-GTser/index.html",
+    "rendered_content_matches_local": true,
+    "sha256": "e9c3d187ecf70bf6fb20fc51f2e4099d71cae558223bd554bb232f9cc1d8326c"
+  },
+  {
+    "platform": "github_pages",
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day28-feast-20261024-v1-GTser/library.html",
+    "rendered_content_matches_local": true,
+    "sha256": "7eb7a732870ae318476e701be7e71a0731c24cf4d90bd7ccb865518cd74acb1b"
+  },
+  {
+    "platform": "github_pages",
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day28-feast-20261024-v1-GTser/reader-apostles.html",
+    "rendered_content_matches_local": true,
+    "sha256": "6e1ef6293619128725a61dfa5b3978f93ccbf47265df56b9dea78b4a7afb204d"
+  },
+  {
+    "platform": "github_pages",
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day28-feast-20261024-v1-GTser/reader-athanasian.html",
+    "rendered_content_matches_local": true,
+    "sha256": "faaab9327bb5cd0ddbf6e47d9455c0cd55f8649d29608f8d28ae00b5458d9e66"
+  },
+  {
+    "platform": "github_pages",
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day28-feast-20261024-v1-GTser/reader-nicene.html",
+    "rendered_content_matches_local": true,
+    "sha256": "b8c69ae5be05ef77a09b0ff6f6495854dbd9ec02f249f457a4e4e54466006fa8"
+  },
+  {
+    "platform": "surge",
+    "url": "https://lord-day28-feast-20261024-v1-gtser.surge.sh/index.html",
+    "rendered_content_matches_local": true,
+    "sha256": "e9c3d187ecf70bf6fb20fc51f2e4099d71cae558223bd554bb232f9cc1d8326c"
+  },
+  {
+    "platform": "surge",
+    "url": "https://lord-day28-feast-20261024-v1-gtser.surge.sh/library.html",
+    "rendered_content_matches_local": true,
+    "sha256": "7eb7a732870ae318476e701be7e71a0731c24cf4d90bd7ccb865518cd74acb1b"
+  },
+  {
+    "platform": "surge",
+    "url": "https://lord-day28-feast-20261024-v1-gtser.surge.sh/reader-apostles.html",
+    "rendered_content_matches_local": true,
+    "sha256": "6e1ef6293619128725a61dfa5b3978f93ccbf47265df56b9dea78b4a7afb204d"
+  },
+  {
+    "platform": "surge",
+    "url": "https://lord-day28-feast-20261024-v1-gtser.surge.sh/reader-athanasian.html",
+    "rendered_content_matches_local": true,
+    "sha256": "faaab9327bb5cd0ddbf6e47d9455c0cd55f8649d29608f8d28ae00b5458d9e66"
+  },
+  {
+    "platform": "surge",
+    "url": "https://lord-day28-feast-20261024-v1-gtser.surge.sh/reader-nicene.html",
+    "rendered_content_matches_local": true,
+    "sha256": "b8c69ae5be05ef77a09b0ff6f6495854dbd9ec02f249f457a4e4e54466006fa8"
+  }
+]
