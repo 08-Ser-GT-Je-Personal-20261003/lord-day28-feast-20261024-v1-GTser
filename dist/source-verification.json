@@ -9,7 +9,7 @@
       "url": "https://ccifellowship.org/books/book-of-praise/creeds/apostles-creed",
       "matches_after_layout_whitespace_only": true,
       "snapshot_text_sha256": "c8b1a17f1e67d82e77c8c053367698a08f2b68555b2fc9bfe8bdf911d9d44027",
-      "live_raw_sha256": "616a4f67f21a34eecad1ec71f4e8710dba2a0b185313a722d218c29bda545608"
+      "live_raw_sha256": "dced115dfc80a047eebc4ecbb75f0e599f244a553abfb8f886996ed2eec19cd9"
     },
     {
       "document": "nicene",
@@ -17,7 +17,7 @@
       "url": "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed",
       "matches_after_layout_whitespace_only": true,
       "snapshot_text_sha256": "8c013606347e6879f2c10ab861e9c2ecaa3a12827784043d85dec6bf7aad6703",
-      "live_raw_sha256": "d4411c360d6c664f9ae0627eb93c3278609040bdc27bb638e7d9bdfc7a6b04f4"
+      "live_raw_sha256": "09c8eaa023c5159428f0ccde016da5f569f65db2438dfb6e1504ada791850915"
     },
     {
       "document": "athanasian",
@@ -33,7 +33,7 @@
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-28",
       "matches_after_layout_whitespace_only": true,
       "snapshot_text_sha256": "bdd141ac1683675c5c9afd9b7b991958ba8da027aa0d8a3ba7a2aca47e9be0e2",
-      "live_raw_sha256": "112de7ffbfb26e45d148c61ba1b2ca7bb24594b348a918f4762b106fe91ef152"
+      "live_raw_sha256": "00ee9d7ec303827a3c93520a5e41c39759596bcb8b16a583db4a58e564aeab49"
     },
     {
       "document": "heidelberg",
@@ -41,7 +41,7 @@
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-28",
       "matches_after_layout_whitespace_only": true,
       "snapshot_text_sha256": "dd4db87bd5db816e117c52e5063ad9cd91d822fdeb2a1bdc0a02e45c94bb0a65",
-      "live_raw_sha256": "112de7ffbfb26e45d148c61ba1b2ca7bb24594b348a918f4762b106fe91ef152"
+      "live_raw_sha256": "00ee9d7ec303827a3c93520a5e41c39759596bcb8b16a583db4a58e564aeab49"
     },
     {
       "document": "heidelberg",
@@ -49,7 +49,7 @@
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-28",
       "matches_after_layout_whitespace_only": true,
       "snapshot_text_sha256": "3e9c6e045d212b94c9718857d31ee8f4b1e8b1d9162de30fac53182764815e5f",
-      "live_raw_sha256": "112de7ffbfb26e45d148c61ba1b2ca7bb24594b348a918f4762b106fe91ef152"
+      "live_raw_sha256": "00ee9d7ec303827a3c93520a5e41c39759596bcb8b16a583db4a58e564aeab49"
     },
     {
       "document": "belgic",
