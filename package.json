@@ -1,0 +1,9 @@
+{
+  "name": "lord-day28-feast-20261024-v1-gtser",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "python build.py",
+    "preview": "python -m http.server 4188 -d dist"
+  }
+}
