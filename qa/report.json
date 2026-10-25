@@ -1,0 +1,154 @@
+{
+  "checked": "2026-10-25",
+  "browser": "Codex in-app browser via cua_repl",
+  "responsive_matrix": [
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/index.html",
+      "width": 320
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/index.html",
+      "width": 390
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/index.html",
+      "width": 768
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/index.html",
+      "width": 1440
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-apostles.html",
+      "width": 320
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-apostles.html",
+      "width": 390
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-apostles.html",
+      "width": 768
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-apostles.html",
+      "width": 1440
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-nicene.html",
+      "width": 320
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-nicene.html",
+      "width": 390
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-nicene.html",
+      "width": 768
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-nicene.html",
+      "width": 1440
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-athanasian.html",
+      "width": 320
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-athanasian.html",
+      "width": 390
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-athanasian.html",
+      "width": 768
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/reader-athanasian.html",
+      "width": 1440
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/library.html",
+      "width": 320
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/library.html",
+      "width": 390
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/library.html",
+      "width": 768
+    },
+    {
+      "clippedBlocks": 0,
+      "overflow": false,
+      "page": "/library.html",
+      "width": 1440
+    }
+  ],
+  "all_responsive_checks_pass": true,
+  "interaction_checks": {
+    "toc_open_close_and_jump": true,
+    "expand_14_answers": true,
+    "collapse_14_answers": true,
+    "quiz_correct_answer_feedback": true,
+    "quiz_next": true,
+    "dark_theme": true,
+    "athanasian_mask_11_paragraphs": true,
+    "reveal_one_paragraph": true,
+    "restore_original": true
+  },
+  "static_checks": {
+    "all_local_links_and_anchors_resolve": true,
+    "duplicate_ids": 0,
+    "source_snapshot_sections": 232,
+    "all_232_library_entries_exact": true,
+    "original_creed_readers_match": true,
+    "all_source_text_hashes_match": true,
+    "scripture_verses": 28,
+    "console_warnings_errors_in_checked_main_flow": 0
+  },
+  "limits": [
+    "Native speech depends on terminal voices; actual audio playback not asserted.",
+    "Print stylesheet supplied; paper page-break QA not performed.",
+    "Wide tables intentionally scroll inside their own container on phones.",
+    "Original library snapshot 2026-10-17; directly used texts live-reverified."
+  ]
+}

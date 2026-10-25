@@ -100,7 +100,7 @@ for key,s in selected:
  ok=re.sub(r'\s+','',live)==re.sub(r'\s+','',frozen)
  checks.append({'document':key,'section':s['title'],'url':s['source'],'matches_after_layout_whitespace_only':ok,'snapshot_text_sha256':s['sha256'],'live_raw_sha256':rawhash})
  if not ok:raise RuntimeError('Live source mismatch: '+s['title'])
-(DIST/'source-verification.json').write_text(json.dumps({'checked':'2026-10-24','snapshot':'2026-10-17','policy':'Word choices, punctuation, numbering retained; layout whitespace excluded for live comparison.','checks':checks},ensure_ascii=False,indent=2),encoding='utf-8')
+(DIST/'source-verification.json').write_text(json.dumps({'checked':'2026-10-25','snapshot':'2026-10-17','policy':'Word choices, punctuation, numbering retained; layout whitespace excluded for live comparison.','checks':checks},ensure_ascii=False,indent=2),encoding='utf-8')
 
 scripture_file=ROOT/'scriptures.json'
 if scripture_file.exists():scriptures=json.loads(scripture_file.read_text(encoding='utf-8'))
@@ -158,7 +158,7 @@ library+='</main>'+footer()
 # Deliver only source texts needed by this independent project; no older project metadata.
 (ROOT/'confessions.json').write_text(json.dumps({'snapshot_date':'2026-10-17','source':'https://ccifellowship.org','documents':data['documents']},ensure_ascii=False,indent=2),encoding='utf-8')
 (ROOT/'package.json').write_text(json.dumps({'name':SLUG.lower(),'version':'1.0.0','private':True,'scripts':{'build':'python build.py','preview':'python -m http.server 4188 -d dist'}},indent=2),encoding='utf-8')
-(ROOT/'.gitignore').write_text('__pycache__/\nnode_modules/\nqa/*.png\n',encoding='utf-8')
+(ROOT/'.gitignore').write_text('__pycache__/\nnode_modules/\nqa/*.png\ndist/CNAME\n',encoding='utf-8')
 (DIST/'.nojekyll').touch()
 readme=f'''# 主日28 · 基督在他的筵席上丰丰富富地喂养我们的灵魂
 
@@ -184,7 +184,7 @@ GitHub Pages由工作流发布dist。Surge手动部署dist至上表域名。账�
 
 ## 原文与验证
 
-原文快照日期2026-10-17；本讲直接引用的三经、海德堡75–77、比利时35、多特第五项14于2026-10-24在线比对，记录在 `dist/source-verification.json`。原文词语标点不修改，版面空白单独处理。其余原典章节不宣称当天重抓。完整范围按CCI收录，不补其他译本结语。
+原文快照日期2026-10-17；本讲直接引用的三经、海德堡75–77、比利时35、多特第五项14于2026-10-25在线比对，记录在 `dist/source-verification.json`。原文词语标点不修改，版面空白单独处理。其余原典章节不宣称当天重抓。完整范围按CCI收录，不补其他译本结语。版本名日期保留起稿日2026-10-24，发布核验日期另见deployment.json。
 
 浏览器验证见 `qa/report.json`；部署最终验证见 `deployment.json`。历史推断与经文明言分开；原创地图非比例、非考古复原。圣诗编号按用户原大纲保留，未猜测未指定诗本歌词。
 
